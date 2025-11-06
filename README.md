@@ -2,7 +2,7 @@
 
 Menggunakan dua algoritma machine learning yang umum digunakan dalam klasifikasi data, yaitu Random Forest dan Support Vector Machine (SVM).
 Tujuan dari praktikum ini adalah untuk memahami konsep dasar, proses training, evaluasi model, serta membandingkan performa kedua algoritma pada dataset yang sama.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📘 Tujuan Pembelajaran
 - Memahami konsep dasar Random Forest dan Support Vector Machine.
 - Menerapkan kedua algoritma menggunakan library scikit-learn.
