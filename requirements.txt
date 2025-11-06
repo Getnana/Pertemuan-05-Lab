@@ -1,0 +1,18 @@
+# Core Python environment
+python==3.10.14
+
+# Data analysis & manipulation
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.2
+
+# Notebook environment
+jupyter==1.1.1
+notebook==7.2.2
+ipykernel==6.29.5
